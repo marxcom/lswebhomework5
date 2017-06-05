@@ -9,6 +9,8 @@ In script.js you'll see something like:
 ```
 //1. print "5" to the console (post the code below)
 
+
+
 //2. Print your name to the console
 ```
 etc.
